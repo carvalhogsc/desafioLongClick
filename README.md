@@ -1,6 +1,6 @@
 # desafio-LongClick
 
-    
+    Arquivo de teste "longClick.js" na pasta testes
 
     Pré Requisitos
 
@@ -23,6 +23,13 @@
             ou
 
             npx cypress run --headed --no-exit --browser chrome
+
+        Modo GUI
+
+            npx cypress open
+
+            Clicar em longClick.js
+    
 
 
     
