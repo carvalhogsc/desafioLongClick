@@ -1,16 +1,28 @@
 # desafio-LongClick
 
-    Dentro da pasta do projeto executar um dos comandos em um terminal (DOS, PowerSheel, Bash, etc)
+    
 
-    npx cypress run
+    Pré Requisitos
 
-    ou
+        Node@13.7.0
+        npm@6.13.6
 
-    npx cypress run --browser chrome
 
-    ou
+    Utilização
 
-    npx cypress run --headed --no-exit --browser chrome
+        Dentro da pasta do projeto executar um dos comandos em um terminal (DOS, PowerSheel, Bash, etc)
+
+        1 - npm install
+    
+        2 - npx cypress run --spec "longClick.js"
+
+            ou
+
+            npx cypress run --spec "longClick.js" --browser chrome
+
+            ou
+
+            npx cypress run --spec "longClick.js" --headed --no-exit --browser chrome
 
 
     

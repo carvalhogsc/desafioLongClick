@@ -1,0 +1,23 @@
+{
+  "name": "desafio-longclick",
+  "version": "1.0.0",
+  "description": "Desafio LongClick",
+  "main": "longClick.js",
+  "dependencies": {
+    "cypress": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "--spec \"longClick.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermescarvalho/desafioLongClick.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilhermescarvalho/desafioLongClick/issues"
+  },
+  "homepage": "https://github.com/guilhermescarvalho/desafioLongClick#readme"
+}
