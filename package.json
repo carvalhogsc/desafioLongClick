@@ -8,7 +8,6 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "--spec \"longClick.js\""
   },
   "repository": {
     "type": "git",
