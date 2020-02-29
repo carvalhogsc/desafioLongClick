@@ -14,15 +14,15 @@
 
         1 - npm install
     
-        2 - npx cypress run --spec "longClick.js"
+        2 - npx cypress run
 
             ou
 
-            npx cypress run --spec "longClick.js" --browser chrome
+            npx cypress run  --browser chrome
 
             ou
 
-            npx cypress run --spec "longClick.js" --headed --no-exit --browser chrome
+            npx cypress run --headed --no-exit --browser chrome
 
 
     
