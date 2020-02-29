@@ -1,2 +1,2 @@
-cypress/integration/examples/
-cypress/integration/videos/
+./cypress/integration/examples/
+./cypress/integration/videos/
